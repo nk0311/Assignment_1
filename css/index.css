@@ -1,0 +1,33 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    background-color: orange;
+} 
+
+h1{
+    text-align: center;
+    color: blueviolet;
+    
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 15px;
+}
+
+p {
+    font-family: cursive;
+    color: rgb(20, 133, 84);
+    text-align: center;
+}
+
