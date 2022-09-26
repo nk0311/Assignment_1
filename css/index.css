@@ -25,3 +25,9 @@ img {
     border-radius: 15px;
 }
 
+p {
+    font-family: cursive;
+    color: rgb(20, 133, 84);
+    text-align: center;
+}
+
