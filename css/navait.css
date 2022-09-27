@@ -45,11 +45,11 @@ img {
 
 h1 {
   font-family: cursive;
-  color: aqua;
+  
 }
 
 h3 {
-  color: darkblue;
+  
   text-align: center;
 }
 
@@ -58,7 +58,7 @@ p {
   margin-left: 30%;
   margin-right: 30%;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  color: orangered;
+  
 }
 
 table, th, td {
@@ -69,9 +69,17 @@ table, th, td {
 table {
   width: 60%;
   
+  
 }
 
 h2 {
+  
   text-align: center;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+  text-align: center;
+  color: aqua;
+  background-color: darkgrey;
 }
